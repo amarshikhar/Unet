@@ -32,7 +32,7 @@ makes sure that mask pixels are in \[0, 1\] range.
 
 The model is trained for 5 epochs.
 
-After 5 epochs, calculated accuracy is about 0.97.
+After 5 epochs, calculated accuracy is about 0.86.
 
 Loss function for the training is basically just a binary crossentropy.
 
@@ -43,7 +43,7 @@ Loss function for the training is basically just a binary crossentropy.
 
 ### Dependencies
 
-This tutorial depends on the following libraries:
+Tt depends on the following libraries:
 
 * Tensorflow
 * Keras >= 1.0
